@@ -33,6 +33,15 @@ namespace Курсова_робота
         protected global::System.Web.UI.WebControls.DetailsView DetailsView1;
 
         /// <summary>
+        /// GridView2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridView2;
+
+        /// <summary>
         /// DetailsView2 control.
         /// </summary>
         /// <remarks>
@@ -42,22 +51,22 @@ namespace Курсова_робота
         protected global::System.Web.UI.WebControls.DetailsView DetailsView2;
 
         /// <summary>
-        /// DetailsView3 control.
+        /// GridView3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DetailsView DetailsView3;
+        protected global::System.Web.UI.WebControls.GridView GridView3;
 
         /// <summary>
-        /// ClientAdvertisements control.
+        /// GridView4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource ClientAdvertisements;
+        protected global::System.Web.UI.WebControls.GridView GridView4;
 
         /// <summary>
         /// Clients control.
@@ -69,6 +78,15 @@ namespace Курсова_робота
         protected global::System.Web.UI.WebControls.SqlDataSource Clients;
 
         /// <summary>
+        /// ClientAdvertisements control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource ClientAdvertisements;
+
+        /// <summary>
         /// SelectedClient control.
         /// </summary>
         /// <remarks>
@@ -76,6 +94,24 @@ namespace Курсова_робота
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.SqlDataSource SelectedClient;
+
+        /// <summary>
+        /// SelectedAd control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource SelectedAd;
+
+        /// <summary>
+        /// AdLayouts control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource AdLayouts;
 
         /// <summary>
         /// AdLayoutPlacements control.
